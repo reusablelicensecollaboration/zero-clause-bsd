@@ -1,4 +1,3 @@
-# Example License v1
-This is not a license. It is an example repo for licenses.
+# Zero-Clause BSD
 
-View at https://reusablelicensecollaboration.github.io/example-license-v1.
+View at https://reusablelicensecollaboration.github.io/zero-clause-bsd.
